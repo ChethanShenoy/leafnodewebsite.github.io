@@ -15,7 +15,7 @@
 		<ul class="nav navbar-nav " >
 			<!--DROP DOWN MEliNU-->
 
-  <li><a href="/project/homepage.html">Home</a></li>
+  <li><a href="/project/homepage.php">Home</a></li>
   <li><a href="/project/simple-php-shopping-cart/index-pro.php">Products</a></li>
   <li><a href="/project/contact.html">Contact</a></li>
   <li><a href="/project/registration/register.php">Sign up</a></li>
